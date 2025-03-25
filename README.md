@@ -18,7 +18,7 @@ NumPy & Pandas (For Data Processing)
 Pickle (For Model Serialization)
 🔧 Installation Guide
 1️⃣ Clone the Repository
-https://github.com/devaldaki3/ai_project
+[https://github.com/devaldaki3/ai_project](https://github.com/PratikGohel12/Streamlit_timeanlytics)
 2️⃣ Install Required Dependencies
 pip install -r requirements.txt
 🚀 How to Run the App
